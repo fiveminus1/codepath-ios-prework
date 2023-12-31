@@ -35,7 +35,7 @@ Favorite Applications:
     - Various exercises already included, with short videos to show the movement
 
 App Idea:
-I would like to build a workout tracker app that also includes additional features when used with an Apple Watch. As listed above, one of my favorite apps is Strong. I think I could improve on this concept as it seems to lack some features, such as modifying previous workouts and it's functionality with it's Apple Watch companion app is very basic. I would want to include a "Rep Counter" with the Apple Watch app that utilizes information about the user's arm position to count a rep when certain conditions are met (perhaps signal using a vibration when your target number of reps are done?). 
+I would like to build a workout tracker app that also includes additional features when used with an Apple Watch. As listed above, one of my favorite apps is Strong. I think I could improve on this concept as it seems to lack some features, such as modifying previous workouts and its functionality with its Apple Watch companion app is very basic. I would want to include a "Rep Counter" with the Apple Watch app that utilizes information about the user's arm position to count a rep when certain conditions are met (perhaps signal using a vibration when your target number of reps are done?). 
 
 ## Notes
 Some basic issues encountered while learning how to use Github Desktop on my MacBook Air; these are noted in my GitHub commits.
